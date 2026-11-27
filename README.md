@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Nekto** — a developer who enjoys experimenting, exploring, and building useful things.
+Hey! I'm **Nekto** — a developer who enjoys experimenting, exploring, and building useful tech ;).
 
 ---
 
